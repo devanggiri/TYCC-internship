@@ -1,7 +1,11 @@
 # TYCC - The Youth Can Change | NGO Website
 
 This is a responsive and dynamic website developed during my web development internship for **TYCC (The Youth Can Change)** — an NGO dedicated to youth empowerment and community welfare.
+
+
 ![Website Preview](preview.png)
+
+
 ## About the Project
 
 The website showcases TYCC’s mission, impact, community services, and outreach programs. It includes sections like About Us, Partners, Impact Stories, Testimonials, Contact, and an interactive Gallery.
