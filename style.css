@@ -163,9 +163,8 @@ section .title {
 
 	background-image: linear-gradient(
 			rgba(255, 140, 0, 0.5),
-			rgba(255, 140, 0, 0.5)
-		),
-		url("images/Wall3.jpg");
+			rgba(255, 140, 0, 0.5)), 
+		url("images/wall3.jpg"); 
 	background-repeat: no-repeat;
 }
 
