@@ -24,7 +24,7 @@ The website showcases TYCC’s mission, impact, community services, and outreach
 
 To create a professional, user-friendly, and modern NGO website that increases community engagement, highlights TYCC’s initiatives, and makes volunteering and support more accessible.
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript, JQuery
 - **Tools**: GitHub, VS Code, Google Fonts, Font Awesome
